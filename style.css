@@ -1,0 +1,16 @@
+*{
+    position: center;
+}
+.card{
+    border-color: yellow;
+    border-radius: 20px;
+    border-width: 5px;
+}
+.card button{
+    background-color: black;
+    color: white;
+}
+.card button:hover {
+   color:yellow;
+   
+}
